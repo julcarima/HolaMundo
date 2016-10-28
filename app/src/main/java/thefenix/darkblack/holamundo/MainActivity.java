@@ -2,7 +2,7 @@ package thefenix.darkblack.holamundo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+// actividad pricipal
 public class MainActivity extends AppCompatActivity {
 
     @Override
